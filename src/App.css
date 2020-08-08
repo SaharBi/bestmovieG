@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  background-color: gray;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+
+.movieBox{
+  background-size: cover;
+  width: 80px;
+  height: 80px;
+  margin: auto;
+  padding-top: 25px;
+}
+
+.movieBox2{
+  background-color: lightgoldenrodyellow;
+  width: 80px;
+  height: 60px;
+  margin: auto;
+  padding-top: 15px;
+  border-style: solid;
+  border-color:black;
+  border-width: 1px;
+  background-size: cover;
+}
+
+.popularBox{
+  background-color: lightgoldenrodyellow;
+  margin-right:5px;
+}
+
+.rate{
+  margin: auto;
+}
+
+.img{
+  width: 150px;
+  height: 150px;
+}
